@@ -1,0 +1,326 @@
+[
+ {
+  "size": 5,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 0.02381300926208496
+ },
+ {
+  "size": 5,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 0.10023975372314453
+ },
+ {
+  "size": 5,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 0.002971172332763672
+ },
+ {
+  "size": 5,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 0.006710052490234375
+ },
+ {
+  "size": 5,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 13.535699367523193
+ },
+ {
+  "size": 5,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 0.022389888763427734
+ },
+ {
+  "size": 5,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 0.11344790458679199
+ },
+ {
+  "size": 5,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 0.022316932678222656
+ },
+ {
+  "size": 5,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 0.11314010620117188
+ },
+ {
+  "size": 10,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 0.024913787841796875
+ },
+ {
+  "size": 10,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 0.22464585304260254
+ },
+ {
+  "size": 10,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 0.01942586898803711
+ },
+ {
+  "size": 10,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 0.04017162322998047
+ },
+ {
+  "size": 10,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 16.748398780822754
+ },
+ {
+  "size": 10,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 0.02479386329650879
+ },
+ {
+  "size": 10,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 0.2251441478729248
+ },
+ {
+  "size": 10,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 0.024139881134033203
+ },
+ {
+  "size": 10,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 0.22448992729187012
+ },
+ {
+  "size": 50,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 0.10994625091552734
+ },
+ {
+  "size": 50,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 1.1164062023162842
+ },
+ {
+  "size": 50,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 3.5225930213928223
+ },
+ {
+  "size": 50,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 4.460349082946777
+ },
+ {
+  "size": 50,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 129.70051217079163
+ },
+ {
+  "size": 50,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 0.10761499404907227
+ },
+ {
+  "size": 50,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 1.1077640056610107
+ },
+ {
+  "size": 50,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 0.10660624504089355
+ },
+ {
+  "size": 50,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 1.101029872894287
+ },
+ {
+  "size": 100,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 0.35730504989624023
+ },
+ {
+  "size": 100,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 2.197467088699341
+ },
+ {
+  "size": 100,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 37.49595403671265
+ },
+ {
+  "size": 100,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 35.44477105140686
+ },
+ {
+  "size": 100,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 473.4718768596649
+ },
+ {
+  "size": 100,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 0.35077786445617676
+ },
+ {
+  "size": 100,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 2.2580342292785645
+ },
+ {
+  "size": 100,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 0.344484806060791
+ },
+ {
+  "size": 100,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 2.2301952838897705
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 0.7639451026916504
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 3.397207736968994
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 165.18527603149414
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 123.63484501838684
+ },
+ {
+  "size": 150,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 0.8042640686035156
+ },
+ {
+  "size": 150,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 3.668585777282715
+ },
+ {
+  "size": 150,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 0.759537935256958
+ },
+ {
+  "size": 150,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 3.8559060096740723
+ },
+ {
+  "size": 250,
+  "repeat": 0,
+  "method": "fcadl",
+  "runtime": 2.293483018875122
+ },
+ {
+  "size": 250,
+  "repeat": 0,
+  "method": "nsigma",
+  "runtime": 5.659831762313843
+ },
+ {
+  "size": 250,
+  "repeat": 0,
+  "method": "pc",
+  "runtime": 1521.393697977066
+ },
+ {
+  "size": 250,
+  "repeat": 0,
+  "method": "lingam",
+  "runtime": 562.0553197860718
+ },
+ {
+  "size": 250,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 2.0491750240325928
+ },
+ {
+  "size": 250,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 5.7212769985198975
+ },
+ {
+  "size": 250,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 2.032512903213501
+ },
+ {
+  "size": 250,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 5.6473188400268555
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 1010.520033121109
+ },
+ {
+  "size": 250,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 2396.817494869232
+ }
+]
