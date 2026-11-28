@@ -3,324 +3,324 @@
   "size": 5,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 0.02381300926208496
+  "runtime": 0.027512788772583008
  },
  {
   "size": 5,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 0.10023975372314453
+  "runtime": 0.10058116912841797
  },
  {
   "size": 5,
   "repeat": 0,
   "method": "pc",
-  "runtime": 0.002971172332763672
+  "runtime": 0.0030059814453125
  },
  {
   "size": 5,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 0.006710052490234375
+  "runtime": 0.00707697868347168
  },
  {
   "size": 5,
   "repeat": 0,
   "method": "baro",
-  "runtime": 13.535699367523193
+  "runtime": 13.426246166229248
  },
  {
   "size": 5,
   "repeat": 1,
   "method": "fcadl",
-  "runtime": 0.022389888763427734
+  "runtime": 0.021689891815185547
  },
  {
   "size": 5,
   "repeat": 1,
   "method": "nsigma",
-  "runtime": 0.11344790458679199
+  "runtime": 0.11488580703735352
  },
  {
   "size": 5,
   "repeat": 2,
   "method": "fcadl",
-  "runtime": 0.022316932678222656
+  "runtime": 0.02150106430053711
  },
  {
   "size": 5,
   "repeat": 2,
   "method": "nsigma",
-  "runtime": 0.11314010620117188
+  "runtime": 0.11458897590637207
  },
  {
   "size": 10,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 0.024913787841796875
+  "runtime": 0.023786067962646484
  },
  {
   "size": 10,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 0.22464585304260254
+  "runtime": 0.22645902633666992
  },
  {
   "size": 10,
   "repeat": 0,
   "method": "pc",
-  "runtime": 0.01942586898803711
+  "runtime": 0.020076990127563477
  },
  {
   "size": 10,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 0.04017162322998047
+  "runtime": 0.04020500183105469
  },
  {
   "size": 10,
   "repeat": 0,
   "method": "baro",
-  "runtime": 16.748398780822754
+  "runtime": 16.85508370399475
  },
  {
   "size": 10,
   "repeat": 1,
   "method": "fcadl",
-  "runtime": 0.02479386329650879
+  "runtime": 0.023168087005615234
  },
  {
   "size": 10,
   "repeat": 1,
   "method": "nsigma",
-  "runtime": 0.2251441478729248
+  "runtime": 0.22553491592407227
  },
  {
   "size": 10,
   "repeat": 2,
   "method": "fcadl",
-  "runtime": 0.024139881134033203
+  "runtime": 0.02335500717163086
  },
  {
   "size": 10,
   "repeat": 2,
   "method": "nsigma",
-  "runtime": 0.22448992729187012
+  "runtime": 0.2250349521636963
  },
  {
   "size": 50,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 0.10994625091552734
+  "runtime": 0.10653901100158691
  },
  {
   "size": 50,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 1.1164062023162842
+  "runtime": 1.1170690059661865
  },
  {
   "size": 50,
   "repeat": 0,
   "method": "pc",
-  "runtime": 3.5225930213928223
+  "runtime": 3.492518186569214
  },
  {
   "size": 50,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 4.460349082946777
+  "runtime": 4.444659233093262
  },
  {
   "size": 50,
   "repeat": 0,
   "method": "baro",
-  "runtime": 129.70051217079163
+  "runtime": 130.36033391952515
  },
  {
   "size": 50,
   "repeat": 1,
   "method": "fcadl",
-  "runtime": 0.10761499404907227
+  "runtime": 0.10615396499633789
  },
  {
   "size": 50,
   "repeat": 1,
   "method": "nsigma",
-  "runtime": 1.1077640056610107
+  "runtime": 1.1083199977874756
  },
  {
   "size": 50,
   "repeat": 2,
   "method": "fcadl",
-  "runtime": 0.10660624504089355
+  "runtime": 0.10147571563720703
  },
  {
   "size": 50,
   "repeat": 2,
   "method": "nsigma",
-  "runtime": 1.101029872894287
+  "runtime": 1.1231639385223389
  },
  {
   "size": 100,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 0.35730504989624023
+  "runtime": 0.34992003440856934
  },
  {
   "size": 100,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 2.197467088699341
+  "runtime": 2.210373878479004
  },
  {
   "size": 100,
   "repeat": 0,
   "method": "pc",
-  "runtime": 37.49595403671265
+  "runtime": 37.57584309577942
  },
  {
   "size": 100,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 35.44477105140686
+  "runtime": 34.83363103866577
  },
  {
   "size": 100,
   "repeat": 0,
   "method": "baro",
-  "runtime": 473.4718768596649
+  "runtime": 466.084401845932
  },
  {
   "size": 100,
   "repeat": 1,
   "method": "fcadl",
-  "runtime": 0.35077786445617676
+  "runtime": 0.3383150100708008
  },
  {
   "size": 100,
   "repeat": 1,
   "method": "nsigma",
-  "runtime": 2.2580342292785645
+  "runtime": 2.211074113845825
  },
  {
   "size": 100,
   "repeat": 2,
   "method": "fcadl",
-  "runtime": 0.344484806060791
+  "runtime": 0.3368053436279297
  },
  {
   "size": 100,
   "repeat": 2,
   "method": "nsigma",
-  "runtime": 2.2301952838897705
+  "runtime": 2.200259208679199
  },
  {
   "size": 150,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 0.7639451026916504
+  "runtime": 0.7462010383605957
  },
  {
   "size": 150,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 3.397207736968994
+  "runtime": 3.2964978218078613
  },
  {
   "size": 150,
   "repeat": 0,
   "method": "pc",
-  "runtime": 165.18527603149414
+  "runtime": 155.21947383880615
  },
  {
   "size": 150,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 123.63484501838684
+  "runtime": 116.25575089454651
+ },
+ {
+  "size": 150,
+  "repeat": 0,
+  "method": "baro",
+  "runtime": 1013.0622000694275
  },
  {
   "size": 150,
   "repeat": 1,
   "method": "fcadl",
-  "runtime": 0.8042640686035156
+  "runtime": 0.726172924041748
  },
  {
   "size": 150,
   "repeat": 1,
   "method": "nsigma",
-  "runtime": 3.668585777282715
+  "runtime": 3.3596508502960205
  },
  {
   "size": 150,
   "repeat": 2,
   "method": "fcadl",
-  "runtime": 0.759537935256958
+  "runtime": 0.7253658771514893
  },
  {
   "size": 150,
   "repeat": 2,
   "method": "nsigma",
-  "runtime": 3.8559060096740723
+  "runtime": 3.3586487770080566
  },
  {
   "size": 250,
   "repeat": 0,
   "method": "fcadl",
-  "runtime": 2.293483018875122
+  "runtime": 2.062391996383667
  },
  {
   "size": 250,
   "repeat": 0,
   "method": "nsigma",
-  "runtime": 5.659831762313843
+  "runtime": 5.576826095581055
  },
  {
   "size": 250,
   "repeat": 0,
   "method": "pc",
-  "runtime": 1521.393697977066
+  "runtime": 1470.0441279411316
  },
  {
   "size": 250,
   "repeat": 0,
   "method": "lingam",
-  "runtime": 562.0553197860718
- },
- {
-  "size": 250,
-  "repeat": 1,
-  "method": "fcadl",
-  "runtime": 2.0491750240325928
- },
- {
-  "size": 250,
-  "repeat": 1,
-  "method": "nsigma",
-  "runtime": 5.7212769985198975
- },
- {
-  "size": 250,
-  "repeat": 2,
-  "method": "fcadl",
-  "runtime": 2.032512903213501
- },
- {
-  "size": 250,
-  "repeat": 2,
-  "method": "nsigma",
-  "runtime": 5.6473188400268555
- },
- {
-  "size": 150,
-  "repeat": 0,
-  "method": "baro",
-  "runtime": 1010.520033121109
+  "runtime": 533.5211617946625
  },
  {
   "size": 250,
   "repeat": 0,
   "method": "baro",
-  "runtime": 2396.817494869232
+  "runtime": 2398.47859787941
+ },
+ {
+  "size": 250,
+  "repeat": 1,
+  "method": "fcadl",
+  "runtime": 1.9922921657562256
+ },
+ {
+  "size": 250,
+  "repeat": 1,
+  "method": "nsigma",
+  "runtime": 5.545880079269409
+ },
+ {
+  "size": 250,
+  "repeat": 2,
+  "method": "fcadl",
+  "runtime": 1.9970409870147705
+ },
+ {
+  "size": 250,
+  "repeat": 2,
+  "method": "nsigma",
+  "runtime": 5.539731740951538
  }
 ]
